@@ -1,5 +1,5 @@
 {
-  "name": "georgringer/news",
+  "name": "juergen-venne/news",
   "type": "typo3-cms-extension",
   "description": "Versatile news extension, based on extbase & fluid for TYPO3 CMS",
   "keywords": [
